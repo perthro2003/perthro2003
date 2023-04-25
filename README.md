@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @perthro2003
 - 👀 I’m interested in have experiences and new knowledges in the technology area.
-- 🌱 I’m currently learning javascript, Sql and C#
+- 🌱 I’m currently learning javascript, Sql, Java and C#
 - 💞️ I’m looking to collaborate on some projects that gives me experience.
 
 
